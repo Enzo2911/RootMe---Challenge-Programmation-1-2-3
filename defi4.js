@@ -1,7 +1,7 @@
 const irc = require('irc');
 const { unzip } = require('zlib');
 
-var client = new irc.Client('irc.root-me.org', 'Enzo2911', {
+var client = new irc.Client('irc.root-me.org', 'Clary', {
     channels: ['#root-me_challenge'],
 	debug: true
 });
